@@ -1,2 +1,2 @@
-# Spotify-Pipeline | Mordern Data Engineering AWS to Snowflake Project
+# Spotify Data Engineering Pipeline - AWS to Snowflake Project
  data engineering project 
